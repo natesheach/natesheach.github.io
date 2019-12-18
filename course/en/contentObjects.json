@@ -1,0 +1,322 @@
+[
+  {
+    "title": "Home page (video)",
+    "displayTitle": "Home page (video)",
+    "body": "<p>Find out what presentation components are available within the core bundle and how you might consider using them within your courses.</p>",
+    "_classes": "no-header",
+    "pageBody": "<p><strong>Scroll down to see what presentation components are available as part of the Version 2.0 core bundle.</strong></p>",
+    "linkText": "View",
+    "duration": "2 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5df0058dd31f0f67c9de47c5",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Placeholder graphic.",
+      "src": "course/en/assets/346f8a8b190c7ee5bf0da6791d533711ef16b621.png"
+    },
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "no-header case-studies no-padding",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isEnableNextOnCompletion": false,
+      "_isContinuous": "local",
+      "_injectIntoSelector": "",
+      "_buttons": {
+        "_hasIcons": false,
+        "_root": {
+          "_isHidden": true,
+          "text": "Go to main menu",
+          "_icon": ""
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to menu",
+          "_icon": ""
+        },
+        "_previous": {
+          "_isHidden": true,
+          "text": "< Previous",
+          "_icon": ""
+        },
+        "_next": {
+          "_isHidden": false,
+          "text": "Continue with the course",
+          "_icon": ""
+        },
+        "_close": {
+          "_isHidden": true,
+          "text": "Close course",
+          "_icon": ""
+        }
+      }
+    },
+    "_splitscreen": {
+      "_isEnabled": false,
+      "_screenWidth": 900
+    },
+    "_blockBackground": {
+      "_isActive": true
+    },
+    "_minimap": {
+      "_path": "course/en/assets/602baeb20238da9013b6d1fdbf4972fc746990c1.png"
+    }
+  },
+  {
+    "title": "Council Tax and empty homes",
+    "displayTitle": "<div>Council Tax</div><div>and empty homes</div>",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "2 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5df0058dd31f0f67c9de47c6",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Window ledge with plant",
+      "src": "course/en/assets/53841edb57562412845e429b3ab31324b2aa7aaa.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isEnableNextOnCompletion": false,
+      "_isContinuous": "local",
+      "_injectIntoSelector": "",
+      "_buttons": {
+        "_hasIcons": false,
+        "_root": {
+          "_isHidden": true,
+          "text": "Go to main menu",
+          "_icon": ""
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to menu",
+          "_icon": ""
+        },
+        "_previous": {
+          "_isHidden": true,
+          "text": "< Previous",
+          "_icon": ""
+        },
+        "_next": {
+          "_isHidden": false,
+          "text": "Continue with the course",
+          "_icon": ""
+        },
+        "_close": {
+          "_isHidden": true,
+          "text": "Close course",
+          "_icon": ""
+        }
+      }
+    },
+    "_blockBackground": {
+      "_isActive": false
+    },
+    "_minimap": {
+      "_path": "course/en/assets/602baeb20238da9013b6d1fdbf4972fc746990c1.png"
+    },
+    "_splitscreen": {
+      "_isEnabled": false,
+      "_screenWidth": 900
+    }
+  },
+  {
+    "title": "Case study and outcomes",
+    "displayTitle": "<div>Case study</div><div>and outcomes</div>",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "2 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5dfa5736bb8c952575d4b600",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Window ledge with plant",
+      "src": "course/en/assets/1dda354c20043eae539f3bdb6f8deae2207605e0.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isEnableNextOnCompletion": false,
+      "_isContinuous": "local",
+      "_injectIntoSelector": "",
+      "_buttons": {
+        "_hasIcons": false,
+        "_root": {
+          "_isHidden": true,
+          "text": "Go to main menu",
+          "_icon": ""
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to menu",
+          "_icon": ""
+        },
+        "_previous": {
+          "_isHidden": true,
+          "text": "< Previous",
+          "_icon": ""
+        },
+        "_next": {
+          "_isHidden": false,
+          "text": "Continue with the course",
+          "_icon": ""
+        },
+        "_close": {
+          "_isHidden": true,
+          "text": "Close course",
+          "_icon": ""
+        }
+      }
+    },
+    "_blockBackground": {
+      "_isActive": false
+    },
+    "_minimap": {
+      "_path": "course/en/assets/602baeb20238da9013b6d1fdbf4972fc746990c1.png"
+    },
+    "_splitscreen": {
+      "_isEnabled": false,
+      "_screenWidth": 900
+    }
+  },
+  {
+    "title": "Next Steps",
+    "displayTitle": "<div>Next</div><div>steps</div>",
+    "body": "",
+    "_classes": "assessment",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "2 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5dfa728fbb8c952575d4b88d",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Placeholder graphic.",
+      "src": "course/en/assets/6bf2b7981e6a1ebea5d3e5645c643e138d4b9e7b.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isEnableNextOnCompletion": false,
+      "_isContinuous": "local",
+      "_injectIntoSelector": "",
+      "_buttons": {
+        "_hasIcons": false,
+        "_root": {
+          "_isHidden": true,
+          "text": "Go to main menu",
+          "_icon": ""
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to menu",
+          "_icon": ""
+        },
+        "_previous": {
+          "_isHidden": true,
+          "text": "< Previous",
+          "_icon": ""
+        },
+        "_next": {
+          "_isHidden": true,
+          "text": "Next >",
+          "_icon": ""
+        },
+        "_close": {
+          "_isHidden": false,
+          "text": "Complete and close course",
+          "_icon": ""
+        }
+      }
+    },
+    "_splitscreen": {
+      "_isEnabled": false,
+      "_screenWidth": 900
+    },
+    "_blockBackground": {
+      "_isActive": false
+    },
+    "_minimap": {
+      "_path": "course/en/assets/602baeb20238da9013b6d1fdbf4972fc746990c1.png"
+    }
+  }
+]

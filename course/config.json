@@ -1,0 +1,110 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_id": "5df0058dd31f0f67c9de481f",
+  "_logging": {
+    "_isEnabled": true,
+    "_level": "debug",
+    "_console": true
+  },
+  "_accessibility": {
+    "_isEnabled": true,
+    "_isEnabledOnTouchDevices": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isTextProcessorEnabled": true,
+    "_isSkipNavigationEnabled": true
+  },
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
+  },
+  "_courseId": "5df0058cd31f0f67c9de47c4",
+  "__v": 0,
+  "_inview": {
+    "_allowScrollOver": true
+  },
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024
+  },
+  "_trickle": {
+    "_completionAttribute": "_isComplete"
+  },
+  "_spoor": {
+    "_isEnabled": true,
+    "_tracking": {
+      "_requireCourseCompleted": true,
+      "_requireAssessmentPassed": true,
+      "_shouldSubmitScore": false,
+      "_shouldStoreResponses": false,
+      "_shouldRecordInteractions": true
+    },
+    "_reporting": {
+      "_onTrackingCriteriaMet": "completed",
+      "_onAssessmentFailure": "incomplete",
+      "_resetStatusOnLanguageChange": false
+    },
+    "_advancedSettings": {
+      "_showDebugWindow": false,
+      "_commitOnStatusChange": true,
+      "_timedCommitFrequency": 10,
+      "_maxCommitRetries": 5,
+      "_commitRetryDelay": 2000,
+      "_suppressErrors": false,
+      "_commitOnVisibilityChangeHidden": true
+    }
+  },
+  "_languagePicker": {
+    "_isEnabled": false,
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "_showOnCourseLoad": true,
+    "_languagePickerIconClass": "icon-language-2",
+    "_classes": "",
+    "_languages": [],
+    "_accessibility": {
+      "accessibilityToggleTextOn": "Turn accessibility on?",
+      "accessibilityToggleTextOff": "Turn accessibility off?",
+      "_accessibilityInstructions": {
+        "touch": "Usage instructions. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "ipad": "Usage instructions for touchscreens. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use right for next. Use left for previous. Use up and down together to select."
+      }
+    }
+  },
+  "build": {
+    "includes": [
+      "adapt-contrib-boxMenu",
+      "5d811e8b514570e00d57a546",
+      "adapt-contrib-media",
+      "adapt-contrib-text",
+      "adapt-contrib-graphic",
+      "adapt-contrib-flipcard",
+      "adapt-hotgrid",
+      "adapt-contrib-blank",
+      "adapt-contrib-narrative",
+      "adapt-contrib-hotgraphic",
+      "adapt-contrib-accordion",
+      "adapt-block-background",
+      "adapt-close",
+      "adapt-contrib-assessment",
+      "adapt-contrib-bookmarking",
+      "adapt-contrib-drawerPageNavigation",
+      "adapt-contrib-languagePicker",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-resources",
+      "adapt-contrib-spoor",
+      "adapt-contrib-trickle",
+      "adapt-contrib-tutor",
+      "adapt-minimap",
+      "adapt-quicknav",
+      "adapt-splitscreen"
+    ]
+  }
+}

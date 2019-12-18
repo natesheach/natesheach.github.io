@@ -1,0 +1,1715 @@
+[
+  {
+    "_component": "media",
+    "_classes": "no-padding",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Media",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5df0058dd31f0f67c9de47ec",
+    "_parentId": "5df0058dd31f0f67c9de47cb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/60e0fc67a934ecff75279c41f39117c97a527079.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/d51470f7618af9527a4bce9530682e84f5ec7dc5.jpg",
+      "cc": [
+        {
+          "srclang": "en",
+          "src": "course/en/assets/07b7dc8a9474d766df7406be2f6456f431d60379.vtt"
+        }
+      ]
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "100%",
+    "_allowFullScreen": true,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Transcript",
+      "inlineTranscriptCloseButton": "Close Transcript",
+      "inlineTranscriptBody": "<p>Welcome to <em>‘Council Tax and empty homes’</em>. The third training module in a series of five brought to you by the Scottish Empty Homes Partnership.</p><p>We’re halfway through the training program at this stage, which is a good time to reflect on what we have covered so far.</p><p>In Module One we gave an introduction to empty homes work. As well as an overview of what the Scottish Empty Homes Partnership high-level aims and objectives are.</p><p>In Module Two we honed-in on what empty homes cases consist of and the practices of record keeping and case management.</p><p>Module three covers the relationship between empty homes work and Council Tax.</p><p>Council Tax data is important to empty homes work and is one of the primary sources of information used by Empty homes officers.</p><p>Empty homes officers will use Council Tax data to both proactively engage with owners and investigate any complaints or referrals that come into them.</p><p>Within this module, you will learn what empty homes information is contained within Council Tax records and how to access that information.</p><p>Here we help you define what a good relationship between you and your local authority's Council Tax department looks like.</p><p>Module three explains where everyone fits in as stakeholders and how to develop good working relationships with those stakeholders.</p><p>We will take you through case studies, which demonstrate the process of working with Council Tax to reach successful empty homes outcomes.</p><p>The Scottish empty homes partnership training is all about you, as we take you through yet another important aspect of empty homes work. We want you to know that we do so because - every home matters.</p>",
+      "transcriptLinkButton": "Transcript",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Welcome",
+    "displayTitle": "Welcome",
+    "body": "<p dir=\"ltr\">Welcome to <span style=\"color:#002B52\"><strong><em>‘Council Tax and empty homes’</em></strong></span>. We are delighted to have you with us here on module <strong><span style=\"color:#002B52\">three of five</span> </strong>on the Scottish Empty Homes Partnership training program.</p><p dir=\"ltr\">Council Tax data is vital to empty homes work. It is the primary source of information used by empty homes officers, both to proactively engage owners and investigate complaints/referrals.</p><p dir=\"ltr\">Therefore it is important to understand what Council Tax is, how the information stored as Council Tax records can help empty homes work&nbsp;and who the Council Tax department are.</p>",
+    "_id": "5df0058dd31f0f67c9de47ed",
+    "_parentId": "5df0058dd31f0f67c9de47cc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Local government finance ",
+    "displayTitle": "Local government finance ",
+    "body": "<p>The introduction of the Local Government Finance (Unoccupied Properties&nbsp;etc.)(Scotland) Act 2012 resulted in many large scale reviews by&nbsp;local&nbsp;authorities to cleanse the data held on&nbsp;Council&nbsp;Tax records. This was to&nbsp;ensure properties were registered correctly before any proposed changes to their charging policies were made.&nbsp;&nbsp;</p><p>Many long-term empty homes were often on the same&nbsp;Council&nbsp;Tax charging policy as second homes and therefore often incorrectly registered. Before reviews were undertaken, differentiating between empty and second homes was far more difficult. The reviews have altered this picture and there is now more accurate data on the numbers of dwellings registered as empty.&nbsp;</p>",
+    "_id": "5df0058dd31f0f67c9de47ef",
+    "_parentId": "5df0058dd31f0f67c9de47ce",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Here is a graphic object",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5df0058dd31f0f67c9de47f0",
+    "_parentId": "5df0058dd31f0f67c9de47ce",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "alt text",
+      "large": "course/en/assets/1105f57c9c435ba5fe8102106e331709662fe532.png",
+      "small": "course/en/assets/1105f57c9c435ba5fe8102106e331709662fe532.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Contents",
+    "displayTitle": "Contents",
+    "body": "<p dir=\"ltr\"><strong><span style=\"color:#002B52\">Note:</span>&nbsp;</strong>This training module is designed for you to scroll and read articles and interact with content as you do so. You can also navigate between the following pages at any time by using the menu on the top right. There you will also find other helpful resources to support you.</p><p dir=\"ltr\"><span style=\"color:#002B52\"><strong>Page one - Home page (video)</strong></span></p><ul style=\"list-style-type:square\"><li>Home page (video)</li></ul><p><span style=\"color:#002b52\"><strong>Page two - Council Tax and empty homes</strong></span></p><ul style=\"list-style-type:square\"><li>Why are we looking at Council Tax and what will you learn?</li><li>What is Council Tax?</li><li>Scottish Assessors</li><li>Properties not on the Council Tax register</li><li>Council Tax guidance, opportunities and risks</li><li>Where everyone fits in</li><li>Working with Council Tax information</li></ul><p dir=\"ltr\"><span style=\"color:#002b52\"><strong>Page three - Case study and outcomes</strong></span></p><ul style=\"list-style-type:square\"><li>Gardner Street, Glasgow</li><li>Data cleansing and sharing</li><li>Review process</li><li>Summary</li></ul><p dir=\"ltr\"><span style=\"color:#002B52\"><strong>Page four - Next steps</strong></span></p><ul style=\"list-style-type:square\"><li>Assessment&nbsp;</li><li>Share&nbsp;</li></ul>",
+    "_id": "5df0058dd31f0f67c9de47f4",
+    "_parentId": "5df0058dd31f0f67c9de47d2",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5df0058dd31f0f67c9de47f5",
+    "_parentId": "5df0058dd31f0f67c9de47d2",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Image of high-rise flats",
+      "large": "course/en/assets/cf4888463e925be12facfbc04104f70f3c079e4f.jpg",
+      "small": "course/en/assets/cf4888463e925be12facfbc04104f70f3c079e4f.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Practical information",
+    "displayTitle": "Practical information",
+    "body": "<p><strong>Select the images below for more information:&nbsp;</strong></p>",
+    "_id": "5df0058dd31f0f67c9de47f6",
+    "_parentId": "5df0058dd31f0f67c9de47d3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "frontImage": {
+          "alt": "How long this training module will take",
+          "src": "course/en/assets/a5726561721f1f31205ef754ea732d88ce36939c.jpg"
+        },
+        "backTitle": "",
+        "backBody": "<p><span style=\"color:#002b52\"><span style=\"background-color:#ffb92d\">Practical information about this training module:</span></span></p><p><span style=\"color:#FFFFFF\">This module is delivered entirely online and takes an estimated&nbsp;<strong>1-2hrs</strong>&nbsp;to complete.</span></p><p><span style=\"color:#FFFFFF\">So long as this module remains&nbsp;part of the Scottish Empty Homes Partnership, students will be able to return to use the materials within it as many times as they like.</span></p><p><span style=\"color:#FFFFFF\">Your progress is saved should you close and return to the module.</span></p>"
+      },
+      {
+        "frontImage": {
+          "alt": "Self-serving. Students complete this training module by themselves.",
+          "src": "course/en/assets/8daf91de7cc81ce57649f465cdf91c60c94a3e6e.jpg"
+        },
+        "backTitle": "",
+        "backBody": "<p><span style=\"color:#002b52\"><span style=\"background-color:#ffb92d\">Practical information about the overall training program:</span></span></p><p><span style=\"color:#FFFFFF\">The training program is made up&nbsp;of five short online modules.</span></p><p><span style=\"color:#FFFFFF\">Students can complete each module and access a certificate of completion without having to submit their work to an assessor.</span></p><p><span style=\"color:#FFFFFF\">Certificates are issued by the&nbsp;learning coordinator.&nbsp;Who issues these awards once students have completed the assessment and evaluation questions at the end of each module.&nbsp;</span></p>"
+      }
+    ]
+  },
+  {
+    "_component": "hotgrid",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Offering discretion",
+    "displayTitle": "Offering discretion",
+    "body": "<p><strong>Select the images below for more information:</strong></p>",
+    "_id": "5df0058dd31f0f67c9de47f7",
+    "_parentId": "5df0058dd31f0f67c9de47d4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_columns": 3,
+    "_items": [
+      {
+        "title": "Local authorities",
+        "body": "<p><span style=\"color:#FFFFFF\">The ability to vary the charge between 90% and 200% rests with local authorities. It is up to each local authority to decide whether to offer discretion, how it is offered and who administers it. </span></p>",
+        "_graphic": {
+          "src": "course/en/assets/2ce0e32cadd698c5d0fcdc4349c2e3032d607c65.jpg",
+          "srcHover": "course/en/assets/2ce0e32cadd698c5d0fcdc4349c2e3032d607c65.jpg",
+          "srcVisited": "course/en/assets/2ce0e32cadd698c5d0fcdc4349c2e3032d607c65.jpg",
+          "alt": "Illustration of map pointer",
+          "title": "Local authorities"
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/2ce0e32cadd698c5d0fcdc4349c2e3032d607c65.jpg",
+          "alt": "Illustration of map pointer"
+        }
+      },
+      {
+        "title": "SEHP",
+        "body": "<p><span style=\"color:#FFFFFF\">SEHP recommend that discretion if offered on a case-by-case basis, and that an empty homes officer is involved in the process, to assess each case on its merits.</span></p><p><span style=\"color:#FFFFFF\">We do not advise a blanket approach, i.e. charging everyone who is eligible without offering any discretion, as this has been proven to be a hindrance for owners brining empty homes back into use. </span></p>",
+        "_graphic": {
+          "src": "course/en/assets/7b8fc16af30d2b46ea6cd1d0dfca4ec1d0b6fa82.jpg",
+          "srcHover": "course/en/assets/7b8fc16af30d2b46ea6cd1d0dfca4ec1d0b6fa82.jpg",
+          "srcVisited": "course/en/assets/7b8fc16af30d2b46ea6cd1d0dfca4ec1d0b6fa82.jpg",
+          "alt": "Proactive engagement icon",
+          "title": "SEHP"
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/7b8fc16af30d2b46ea6cd1d0dfca4ec1d0b6fa82.jpg",
+          "alt": "SEHP"
+        }
+      },
+      {
+        "title": "The owner",
+        "body": "<p><span style=\"color:#FFFFFF\">Offering discretion allows the owner a chance to bring their property back into use within an agreed timescale, with the levy acting as the incentive for the owner to bring their property back into use as soon as possible, so they do not receive the charge again.</span></p>",
+        "_graphic": {
+          "src": "course/en/assets/391efb0d7d52bd4946a4b0a0322f4c5046f67fd2.jpg",
+          "srcHover": "course/en/assets/391efb0d7d52bd4946a4b0a0322f4c5046f67fd2.jpg",
+          "srcVisited": "course/en/assets/391efb0d7d52bd4946a4b0a0322f4c5046f67fd2.jpg",
+          "alt": "Illustration of owner",
+          "title": "The owner"
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/391efb0d7d52bd4946a4b0a0322f4c5046f67fd2.jpg",
+          "alt": "The owner"
+        }
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What you will learn in this module?",
+    "displayTitle": "What you will learn in this module?",
+    "body": "<ul style=\"list-style-type:square\"><li><span style=\"color:#FFFFFF\">The basics of Council Tax</span></li><li><span style=\"color:#FFFFFF\">What empty homes information is contained within Council Tax&nbsp;records</span></li><li><span style=\"color:#FFFFFF\">How to access that information</span></li><li><span style=\"color:#FFFFFF\">Who the Council Tax department are, and what are their&nbsp;priorities&nbsp;</span></li><li><span style=\"color:#FFFFFF\">Why developing a good relationship with Council Tax benefits&nbsp;everyone</span></li><li><span style=\"color:#FFFFFF\">How to work with the Council Tax levy on empty homes</span></li><li><span style=\"color:#FFFFFF\">What can go wrong with the process.</span></li></ul>",
+    "_id": "5df8f229bb8c952575d4b531",
+    "_parentId": "5df8f212bb8c952575d4b52a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5df8f22cbb8c952575d4b532",
+    "_parentId": "5df8f212bb8c952575d4b52a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5f0aee83cb434d501fc196f8486863e3bb2e8483.png",
+      "small": "course/en/assets/5f0aee83cb434d501fc196f8486863e3bb2e8483.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5df8f435bb8c952575d4b53d",
+    "_parentId": "5df8f42abb8c952575d4b536",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What is Council Tax?  ",
+    "displayTitle": "What is Council Tax?  ",
+    "body": "<p><span style=\"color:#FFFFFF\">The term ‘council tax’ refers to a tax which is levied on residential properties across the UK.&nbsp;The UK Government advice to households is that there are 3 things they need to know about council tax charges:</span></p><ul style=\"list-style-type:square\"><li><span style=\"color:#FFFFFF\">The valuation band for your home</span></li><li><span style=\"color:#FFFFFF\">How much your&nbsp;</span><u><a href=\"http://local.direct.gov.uk/LDGRedirect/index.jsp?LGSL=57&amp;LGIL=8&amp;ServiceN\" rel=\"noreferrer\" target=\"_blank\"><span style=\"color:#FFB92D\">local council</span></a></u><span style=\"color:#FFFFFF\">&nbsp;charges for that band</span></li><li><span style=\"color:#FFFFFF\">Whether you can get a&nbsp;</span><u><a href=\"https://www.gov.uk/council-tax/who-has-to-pay\" rel=\"noreferrer\" target=\"_blank\"><span style=\"color:#FFB92D\">discount or exemption</span></a></u><span style=\"color:#FFFFFF\">&nbsp;&nbsp;</span></li></ul><p><span style=\"color:#FFFFFF\">Council tax charges applied to residential properties vary and in addition to the above will also take into account: property status, the number of people living in it, and occupant’s income.</span></p><p><span style=\"color:#FFFFFF\">In Scotland, council tax contributes more than £2 billion towards the funding of local public services annually.</span></p>",
+    "_id": "5df8f5a4bb8c952575d4b53e",
+    "_parentId": "5df0058dd31f0f67c9de47cd",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5df8f5a8bb8c952575d4b53f",
+    "_parentId": "5df0058dd31f0f67c9de47cd",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cd97aa5a02cd20bf6a0913dbbed4543d6ecc5c23.png",
+      "small": "course/en/assets/cd97aa5a02cd20bf6a0913dbbed4543d6ecc5c23.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Council Tax definitions  ",
+    "displayTitle": "Council Tax definitions  ",
+    "body": "<p>The definition used to describe a property is particularly relevant when it is not occupied or used as a main residence.&nbsp;You are most likely to encounter the following categories, in your role with empty homes:</p><p><strong>Select through the information in the slides:</strong></p>",
+    "_id": "5df8febabb8c952575d4b553",
+    "_parentId": "5df8fe9bbb8c952575d4b543",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "Select through the information:",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Unoccupied dwelling  ",
+        "body": "<p>An unoccupied dwelling can be either furnished or unfurnished but is not lived in at all or is lived in for less than <span style=\"color:#002B52\"><strong>25 days</strong></span> in any&nbsp;twelve month&nbsp;period.&nbsp;&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/452f54db6132042d34b5e8bfbb98464ae211f375.png",
+          "alt": "Illustration of unoccupied home",
+          "attribution": ""
+        },
+        "strapline": "Unoccupied dwelling  "
+      },
+      {
+        "title": "Long-term empty  ",
+        "body": "<p>A long-term empty&nbsp;dwelling can be either furnished or unfurnished but&nbsp;has been registered as unoccupied for a period of <span style=\"color:#002B52\"><strong>12 months</strong></span> or longer.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/d2fdb984a641b1d3aabe410e75baab97e48e8946.png",
+          "alt": "Illustration of clock",
+          "attribution": ""
+        },
+        "strapline": "Long-term empty  "
+      },
+      {
+        "title": "Second home ",
+        "body": "<p>A dwelling which is&nbsp;furnished and lived in for at least <span style=\"color:#002B52\"><strong>25 days</strong></span> in any&nbsp;twelve month&nbsp;period, but not as someone’s sole or main residence.&nbsp;&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/8074a4d5e42ca8f24c362aba4a18e433277768e3.png",
+          "alt": "Illustration of two homes",
+          "attribution": ""
+        },
+        "strapline": "Second home "
+      },
+      {
+        "title": "Exemption categories  ",
+        "body": "<p>Not all empty properties will be on the Council Tax register under the categories unoccupied dwellings or long-term empty properties. Some empty homes can be exempt from paying Council Tax due to their status.</p><p>The timeframes for exemption can vary from set periods or in some instances indefinitely until the situation changes. This can result in properties being empty and exempt for long periods of time.&nbsp;Examples of this are: owners who are in residential care, hospital, or prison, and&nbsp;when properties are being structurally repaired (for up to one year).&nbsp;&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/0916790dbd223cea9a2f78f11f31f98924487550.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Exemption categories  "
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#002B52\"><strong>Note:</strong></span> Remember to ask your Council Tax team to include reports on empty exempt categories, as many&nbsp;of these properties will also be ones that you could bring back into use at some point.&nbsp;They may also be the subject of referrals from the public.&nbsp;</p>",
+    "_id": "5df9111cbb8c952575d4b569",
+    "_parentId": "5df9110cbb8c952575d4b559",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Who is responsible for applying council tax charges in Scotland?  ",
+    "displayTitle": "Who is responsible for applying council tax charges in Scotland?  ",
+    "body": "<p>The Scottish Government&nbsp;and Scottish Parliament are responsible for the legislation that defines Council Tax.&nbsp;&nbsp;</p><p>Each&nbsp;local authority&nbsp;is&nbsp;responsible&nbsp;for&nbsp;setting the Council Tax&nbsp;rates that apply&nbsp;in their area. They decide how they administer and collect Council Tax and&nbsp;determine how&nbsp;the&nbsp;income generated is used to fund&nbsp;local services provided.&nbsp;However, some revenue is ring fenced. For example,&nbsp;a proportion of&nbsp;the revenue that is generated from second homes and long-term unoccupied properties is reserved for spending that supports the provision of new affordable housing.&nbsp;</p>",
+    "_id": "5df91196bb8c952575d4b56e",
+    "_parentId": "5df91196bb8c952575d4b56b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5df911b8bb8c952575d4b56f",
+    "_parentId": "5df91196bb8c952575d4b56b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Image of Scottish housing estate",
+      "large": "course/en/assets/8d6234c151a1f9ed41ed71d9a2726ab2209c79b0.png",
+      "small": "course/en/assets/8d6234c151a1f9ed41ed71d9a2726ab2209c79b0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Scottish Assessors ",
+    "displayTitle": "Scottish Assessors ",
+    "body": "<p>The Scottish Assessors are responsible for valuing properties and adding/altering/removing them from the&nbsp;Council&nbsp;Tax register.&nbsp;Their website is a useful data source, it&nbsp;provides details of all&nbsp;Council&nbsp;Tax bandings for properties across Scotland&nbsp;and also&nbsp;details of premises on Rates register.&nbsp;&nbsp;&nbsp;</p><p>Based on its relative property value they assign each&nbsp;property in Scotland one of eight valuation bands, from A (lowest) to H (highest).&nbsp;&nbsp;</p><p>The local authorities use these valuation bands and apply a scale to&nbsp;Council&nbsp;Tax charges applied.&nbsp;&nbsp;</p><p><span style=\"color:#002B52\"><strong>Note:</strong></span>&nbsp;open-up the example in the resources area titled <em>‘Council Tax charges’</em> to carry out a small activity.&nbsp;</p>",
+    "_id": "5df91907bb8c952575d4b576",
+    "_parentId": "5df91907bb8c952575d4b573",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5df91907bb8c952575d4b577",
+    "_parentId": "5df91907bb8c952575d4b573",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Top of residential buildings",
+      "large": "course/en/assets/d07a51d51d55551396d40dc7f1dd53fba958e8ff.png",
+      "small": "course/en/assets/d07a51d51d55551396d40dc7f1dd53fba958e8ff.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Properties not on the Council Tax register",
+    "displayTitle": "Properties not on the Council Tax register",
+    "body": "<p><span style=\"color:#FFFFFF\">Not all empty properties that you investigate will be on the Council Tax register.</span></p><p><span style=\"color:#FFFFFF\">Some residential properties may be registered for Business Rates dependent on their registered use.</span></p><p><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#003764\">Select through all the hotspots on the image to reveal further information:</span></span></strong></p><p>&nbsp;</p>",
+    "_id": "5df91abfbb8c952575d4b580",
+    "_parentId": "5df91abfbb8c952575d4b57d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "src": "course/en/assets/57e8e830ed8dde314f4081196503fd0e1b270900.png",
+      "alt": "Illustration of home in state of disrepair",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "Self-catering unit / holiday lets  ",
+        "body": "<p>These are premises that are made available for letting on a commercial basis as self-catering accommodation for short periods amounting in aggregate to more than 140 days per year.&nbsp;The full definition and information can be found in the Scottish Assessors Association (SAA)&nbsp;practice&nbsp;note:&nbsp;&nbsp;</p><p><a href=\"https://www.saa.gov.uk/wp-content/uploads/2017/04/Self-Catering-Units_R2017_CPC17.pdf\" rel=\"noreferrer\" target=\"_blank\">https://www.saa.gov.uk/wp-content/uploads/2017/04/Self-Catering-Units_R2017_CPC17.pdf</a>&nbsp;&nbsp;</p>",
+        "strapline": "Self-catering unit / holiday lets  ",
+        "_graphic": {
+          "src": "course/en/assets/d8d4c3a505dd6cdd7472335e08f485b0a4c03323.png",
+          "alt": "Illustration of empty home",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "top-left",
+        "_left": 31,
+        "_top": 23
+      },
+      {
+        "title": "Premises under repair, refurbishment or reconstruction  ",
+        "body": "<p>If works are substantial and&nbsp;dictate that the premises are not capable of beneficial occupation&nbsp;they may be added as premises with nil value and appear in Rates. See link to SAA practice below for further information:&nbsp;&nbsp;&nbsp;</p><p><a href=\"https://www.saa.gov.uk/wp-content/uploads/dlm_uploads/2019/01/Properties-Under-Repair-etc._R2017_BPC03.pdf\" rel=\"noreferrer\" target=\"_blank\">https://www.saa.gov.uk/wp-content/uploads/dlm_uploads/2019/01/Properties-Under-Repair-etc._R2017_BPC03.pdf</a>&nbsp;&nbsp;</p><p>Check the SAA website in the first instance to determine if property is on the business rates register:&nbsp;<a href=\"https://www.saa.gov.uk/\" rel=\"noreferrer\" target=\"_blank\">https://www.saa.gov.uk/</a>&nbsp;&nbsp;</p><p>&nbsp;</p>",
+        "strapline": "Premises under repair, refurbishment or reconstruction  ",
+        "_graphic": {
+          "src": "course/en/assets/682ff7e7a08145cacfff19995d1dbf11be01294e.png",
+          "alt": "Illustration of map pointer",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "center",
+        "_left": 40,
+        "_top": 69
+      },
+      {
+        "title": "Properties that do not show on either register",
+        "body": "<p>In some rare cases, there may be properties that do not show on either the Council Tax or business rates register. In these instances, old property records and the land registry are sources of tracing owners.&nbsp;&nbsp;</p><p>The SEHP have created a Data Collection Guide which is available to help you review the full sources available to you when tracing owners.&nbsp;</p><p><span style=\"color:#002B52\"><strong>Note:</strong></span> you can view SEHP’s&nbsp;<a href=\"https://shelteruk.sharepoint.com/sites/ScotCommsPolicy/EmptyHomes/Forms/AllItems.aspx?viewid=00000000%2D0000%2D0000%2D0000%2D000000000000&amp;id=%2Fsites%2FScotCommsPolicy%2FEmptyHomes%2FGuides%20%26%20Tools%2FData%20Collection%20Guide%2FScottish%20Empty%20Homes%20Partnership%20%2D%20Data%20Collection%20Guide%202019%2Epdf&amp;parent=%2Fsites%2FScotCommsPolicy%2FEmptyHomes%2FGuides%20%26%20Tools%2FData%20Collection%20Guide\" rel=\"noreferrer\" target=\"_blank\">Data Collection Guide</a>&nbsp;in the resources area</p>",
+        "strapline": "Properties that do not show on either register",
+        "_graphic": {
+          "src": "course/en/assets/0916790dbd223cea9a2f78f11f31f98924487550.png",
+          "alt": "Illustration of property owner",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 67,
+        "_top": 48
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Council Tax guidance – unoccupied properties",
+    "displayTitle": "Council Tax guidance – unoccupied properties",
+    "body": "<p>There have been a significant number of changes to the guidance in relation to&nbsp;Council&nbsp;Tax discounts for long-term empty and second homes in recent years.&nbsp;&nbsp;</p><p>The Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 and subsequent regulations, provides provision for local authorities to remove the discount and increase the level payable on certain types of unoccupied homes.&nbsp;This legislation is a resource to encourage owners to bring homes back into use and not leave empty for long periods of time.&nbsp;&nbsp;</p><p>The legislation gives councils the discretion to vary the&nbsp;Council&nbsp;Tax payable on unoccupied properties. Initially a discount of between 10% and 50% must be provided, but after a property is unoccupied for 12 months (or 24 months if being actively marketed for sale or let), an increase of up to 100% may be imposed.</p><p><span style=\"color:#002B52\"><strong>Note:</strong></span>&nbsp;you can view access further information on the Local Government Finance&nbsp;(Unoccupied Properties etc.) (Scotland) Act 2012&nbsp;and Scottish Government guidance on discretion&nbsp;in the resources area.&nbsp;</p>",
+    "_id": "5dfa0a6fbb8c952575d4b591",
+    "_parentId": "5dfa0a6fbb8c952575d4b58e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Here is a graphic object",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dfa0a6fbb8c952575d4b592",
+    "_parentId": "5dfa0a6fbb8c952575d4b58e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Empty property exterior",
+      "large": "course/en/assets/700e93f8fe9f19782ccc063e7613c3fcc83f0483.jpg",
+      "small": "course/en/assets/700e93f8fe9f19782ccc063e7613c3fcc83f0483.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>SEHP recommend that additional revenue raised via the levy is spent on supporting empty homeowners to bring their properties back into use, preferably with a dedicated empty homes service within the council but also with loans, grants etc.&nbsp;</p><p>The&nbsp;Council&nbsp;Tax levy&nbsp;is both a positive and a negative influence on empty homes work depending on how it is applied.</p>",
+    "_id": "5dfa1dbcbb8c952575d4b5ae",
+    "_parentId": "5dfa1da7bb8c952575d4b59d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Opportunities and risks",
+    "displayTitle": "Opportunities and risks",
+    "body": "<p><strong>Select through the information in the slides:</strong></p>",
+    "_id": "5dfa2666bb8c952575d4b5bd",
+    "_parentId": "5dfa2666bb8c952575d4b5ba",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Opportunities",
+        "body": "<ul style=\"list-style-type:square\"><li>Encourages owners/liable parties of long-term empty homes to&nbsp;act&nbsp;rather than continue to leave empty</li><li>Owners more likely to engage and receive advice and assistance to help make informed choices</li><li>Use of discretion&nbsp;as a carrot&nbsp;can focus owners to bring their properties back into use&nbsp;within an agreed timescale.&nbsp;</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/d6ebb78ff0ce8584f920e9c63b2808f3de0a0a4d.png",
+          "alt": "Illustration of a lightbulb",
+          "attribution": ""
+        },
+        "strapline": "Opportunities"
+      },
+      {
+        "title": "Risks",
+        "body": "<ul style=\"list-style-type:square\"><li>Use of the levy as a blanket charge, i.e. a stick without a carrot, may cause owners to be financially unable to bring their property back into use</li><li>Owners may seek to avoid the levy by fraudulently claiming the property is a second home or occupied when it is in fact still empty.</li></ul><p><strong><span style=\"color:#002B52\">Note:</span> </strong>a&nbsp;previous owner or occupier's use of the property can affect how much discount the new owner or occupier’s may be eligible to receive and for how long.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/452f54db6132042d34b5e8bfbb98464ae211f375.png",
+          "alt": "Illustration of a house with cross overlaying it",
+          "attribution": ""
+        },
+        "strapline": "Risks"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Task",
+    "displayTitle": "Task",
+    "body": "<p>Find out what rates of Council Tax your local authority charges for long-term empty homes.</p>",
+    "_id": "5dfa2f5bbb8c952575d4b5cb",
+    "_parentId": "5dfa2f5bbb8c952575d4b5c8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Agreeing working practices ",
+    "displayTitle": "Agreeing working practices ",
+    "body": "<p>If the Empty Homes Officer and Council Tax staff, both have a clear understanding on each other’s key objectives and the benefits of working together, it will make the process of agreeing working practices more meaningful and effective.</p><p>There are many examples of good practice which demonstrate effective partnership working. You may wish to suggest&nbsp;initially setting out joint working agreement&nbsp;and protocols&nbsp;for:&nbsp;</p><ul style=\"list-style-type:square\"><li>Obtaining read only access to&nbsp;Council&nbsp;Tax system</li><li>Report templates – timescales/information required</li><li>Information sharing&nbsp;and Data Cleansing procedures</li><li>Joint update meeting intervals</li><li>Referral system to Empty Homes Officer i.e. include contact details for advice on all&nbsp;Council&nbsp;Tax correspondence in relation long-term empty homes</li><li>If applicable, procedures for applying discretion to long-term empty homes subject to premium charge&nbsp;(i.e. approval and monitoring procedures)</li><li>Who makes the decision and what frequency of engagement/inspections are required?&nbsp;&nbsp;</li></ul>",
+    "_id": "5dfa4101bb8c952575d4b5d3",
+    "_parentId": "5dfa4101bb8c952575d4b5d0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dfa41ddbb8c952575d4b5d4",
+    "_parentId": "5dfa4101bb8c952575d4b5d0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fbe5993f8cba307ce57fbf2683777afedfe55842.png",
+      "small": "course/en/assets/fbe5993f8cba307ce57fbf2683777afedfe55842.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Tasks",
+    "displayTitle": "Tasks",
+    "body": "<p>Find out what the overarching key objectives are for the Council Tax department in your local authority.</p><p>Make a note to clarify your Council Tax departments key aims and objectives at your induction meeting if you have one.</p>",
+    "_id": "5dfa427dbb8c952575d4b5db",
+    "_parentId": "5dfa427dbb8c952575d4b5d8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Working with Council Tax information ",
+    "displayTitle": "Working with Council Tax information ",
+    "body": "<p><span style=\"color:#FFFFFF\">The relationship Empty Homes Officers have with their Council Tax colleagues is paramount to ensuring that they have&nbsp;access to&nbsp;the data required to fulfil duties.&nbsp;&nbsp;</span></p><p><span style=\"color:#FFFFFF\">We need Council Tax information&nbsp;to be able to work proactively&nbsp;and it is the most valuable resource of information available to an Empty Homes Officer.&nbsp;</span></p><p><span style=\"color:#FFFFFF\">Section&nbsp;157,&nbsp;of&nbsp;the&nbsp;Housing Scotland Act&nbsp;(2010),&nbsp;provides a&nbsp;provision&nbsp;for Empty Homes Officers to have read only access to Council Tax records.&nbsp;</span></p><p><span style=\"color:#FFFFFF\">The information held on Council Tax records can be of significant use to assist with investigations into the circumstances of an empty home and the options to bring it back into use.</span></p>",
+    "_id": "5dfa46b1bb8c952575d4b5dc",
+    "_parentId": "5df0058dd31f0f67c9de47cf",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dfa46bbbb8c952575d4b5dd",
+    "_parentId": "5df0058dd31f0f67c9de47cf",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d9e806343bd05c4f66f211aadc35b340d333f7d6.png",
+      "small": "course/en/assets/d9e806343bd05c4f66f211aadc35b340d333f7d6.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Information that can be gained",
+    "displayTitle": "Information that can be gained",
+    "body": "<ul style=\"list-style-type:square\"><li><span style=\"color:#FFFFFF\">Owner/s&nbsp;or responsible&nbsp;party’s&nbsp;name/s</span></li><li><span style=\"color:#FFFFFF\">Contact&nbsp;information –&nbsp;address, email, telephone numbers</span></li><li><span style=\"color:#FFFFFF\">How long it has been registered empty</span></li><li><span style=\"color:#FFFFFF\">History of property – was it registered as empty prior to existing owners purchasing, has it had many different owners etc</span></li><li><span style=\"color:#FFFFFF\">Information&nbsp;obtained&nbsp;from discount/exemption&nbsp;application forms&nbsp;– such as condition of property, any on-going works, proposed timescales&nbsp;etc.&nbsp;</span></li></ul>",
+    "_id": "5dfa47aabb8c952575d4b5e4",
+    "_parentId": "5dfa47aabb8c952575d4b5e1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dfa47aabb8c952575d4b5e5",
+    "_parentId": "5dfa47aabb8c952575d4b5e1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Exterior of tenement flats",
+      "large": "course/en/assets/975bda8d05732f0edfef10b2c7d9f4067984bae1.jpg",
+      "small": "course/en/assets/975bda8d05732f0edfef10b2c7d9f4067984bae1.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dfa4c03bb8c952575d4b5f0",
+    "_parentId": "5dfa4bd7bb8c952575d4b5e9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Building good relations ",
+    "displayTitle": "Building good relations ",
+    "body": "<p>By making early contact and building a rapport with colleagues in Council Tax from the offset can help cement good healthy working relationships.</p><p>There are clear advantages&nbsp;for Empty Homes Officer&nbsp;to have access to Council Tax information&nbsp;for investigating empty&nbsp;properties. However, the Empty Homes Officer can be an equally valuable resource to the Council Tax Department and wider team.&nbsp;These benefits will assist you to demonstrate the value of joint working when you meet with Council Tax colleagues.&nbsp;&nbsp;</p>",
+    "_id": "5dfa4e04bb8c952575d4b5f5",
+    "_parentId": "5dfa4e04bb8c952575d4b5f2",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dfa4e04bb8c952575d4b5f6",
+    "_parentId": "5dfa4e04bb8c952575d4b5f2",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Interior of damaged home",
+      "large": "course/en/assets/456a8a22fad7ad2fc6940d8ce5d29017cf3f4da8.jpg",
+      "small": "course/en/assets/456a8a22fad7ad2fc6940d8ce5d29017cf3f4da8.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Gardner Street, Glasgow",
+    "displayTitle": "Gardner Street, Glasgow",
+    "body": "<table border=\"1\"><tbody><tr><td><p><span style=\"color:#002B52\"><strong>How long has the property been empty, in total?&nbsp;&nbsp;</strong></span></p></td><td><p>24 years - Since 1995 according to Council Tax records, there may have been squatters in the interim&nbsp;</p></td></tr><tr><td><p><span style=\"color:#002B52\"><strong>When did the Empty Homes Officer (EHO) first contact the owner?&nbsp;&nbsp;</strong></span></p></td><td><p>Initial referral received on 24 July 2018&nbsp;and eventually managed to trace owner using Fraser &amp; Fraser, Genealogists&nbsp;in October 2018&nbsp;</p></td></tr><tr><td><p><span style=\"color:#002B52\"><strong>How did the EHO first become aware of this empty home?&nbsp;&nbsp;&nbsp;&nbsp;</strong></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></td><td><p>Member of the public reported an open back window to Glasgow City Council Land &amp; Environmental Services who passed to EHO&nbsp;</p></td></tr></tbody></table>",
+    "_id": "5dfa5737bb8c952575d4b64a",
+    "_parentId": "5dfa5737bb8c952575d4b605",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dfa5a39bb8c952575d4b82c",
+    "_parentId": "5dfa5737bb8c952575d4b605",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2536cbfe79db82fe8353fa0735483ace8e0281f4.jpg",
+      "small": "course/en/assets/2536cbfe79db82fe8353fa0735483ace8e0281f4.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The property",
+    "displayTitle": "The property",
+    "body": "<table border=\"1\"><tbody><tr><td><p><span style=\"color:#002B52\"><strong>In which local authority area is the property located?</strong></span>&nbsp;&nbsp;</p></td><td><p>Glasgow City&nbsp;</p></td></tr><tr><td><p><span style=\"color:#002B52\"><strong>What type of property is it?&nbsp;&nbsp;</strong></span></p></td><td><p>Tenement Flat&nbsp;</p></td></tr><tr><td><p><span style=\"color:#002B52\"><strong>Why did the property initially become empty?&nbsp;</strong></span>&nbsp;</p></td><td><p>Tenants moved out and owner did not occupy&nbsp;</p></td></tr><tr><td><p><span style=\"color:#002B52\"><strong>Why did the property then remain empty?&nbsp;&nbsp;</strong></span></p></td><td><p>Disinterest / personal issues&nbsp;</p></td></tr></tbody></table>",
+    "_id": "5dfa5b5dbb8c952575d4b833",
+    "_parentId": "5dfa5b5dbb8c952575d4b830",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Empty Homes Officer actions",
+    "displayTitle": "Empty Homes Officer actions",
+    "body": "<table border=\"1\"><tbody><tr><td><p><span style=\"color:#002B52\"><strong>What options were available to the EHO?&nbsp;&nbsp;</strong></span></p></td><td><p>EHO visited property and talked to neighbours looking for anecdotal evidence, phoned Police Scotland but no information could be disclosed, contacted colleagues in other GCC departments, but all drew a blank on forwarding address.&nbsp;</p><p>EHO contacted Fraser &amp; Fraser and they found contact details for owner. I telephoned owner and discovered there were severe personal and medical issues which prevented them from visiting the property, however, they were aware that it was accruing massive council tax and factors debts and didn’t know where to start in sorting it out.<strong>&nbsp;</strong></p></td></tr><tr><td><p><span style=\"color:#002B52\"><strong>How was the EHO able to help?&nbsp;&nbsp;</strong></span></p></td><td><p>In May 2019, after months of contact by letter and phone, owner agreed to come to Glasgow to meet with EHO and Auction House Scotland.&nbsp; However, this meeting was cancelled on the day by the owner, as he had received an unsolicited offer for the property which was substantially less than what it was worth, but owner was prepared to accept.&nbsp; EHO advised against accepting this offer before speaking to another property professional and asked for permission to discuss with AHS which was given.&nbsp; EHO spoke with John Loudon (AHS) who confirmed that the offer was less than the value of the flat and offered to speak to owner.&nbsp; John Loudon went to Gourock to meet with owner who&nbsp;subsequently&nbsp;agreed AHS terms and the flat was sold with an increased offer and the sale concluded on 26 July 2019.&nbsp;</p></td></tr><tr><td><p><span style=\"color:#002B52\"><strong>Were there any obstacles in this case, and if&nbsp;so&nbsp;how were they overcome?</strong></span>&nbsp;&nbsp;</p></td><td><p>Owner lived&nbsp;out&nbsp;with&nbsp;Glasgow and was primary carer for partner with&nbsp;Alzheimers.&nbsp;&nbsp;</p></td></tr><tr><td><p><span style=\"color:#002B52\"><strong>Did you work with any partners in this case?</strong>&nbsp;&nbsp;</span></p></td><td><p>Auction House Scotland&nbsp;</p></td></tr></tbody></table>",
+    "_id": "5dfa5bf2bb8c952575d4b83b",
+    "_parentId": "5dfa5bf2bb8c952575d4b838",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Outcome ",
+    "displayTitle": "Outcome ",
+    "body": "<table border=\"1\"><tbody><tr><td><p><span style=\"color:#002B52\"><strong>What was the outcome in this case?&nbsp;&nbsp;</strong></span></p><p>&nbsp;</p></td><td><p>Flat was sold and the owner paid Glasgow City Council&nbsp;£32,765.84&nbsp;in outstanding council tax charges&nbsp;&nbsp;</p></td></tr><tr><td><p><span style=\"color:#002B52\"><strong>If the outcome was Property Sold,&nbsp;was the property ready to move into, or did it require further work to render it habitable?&nbsp;</strong>&nbsp;</span></p></td><td><p>No major renovation was required&nbsp;</p></td></tr></tbody></table>",
+    "_id": "5dfa5c99bb8c952575d4b840",
+    "_parentId": "5dfa5c98bb8c952575d4b83d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dfa5c99bb8c952575d4b841",
+    "_parentId": "5dfa5c98bb8c952575d4b83d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cf998bf8b73100d5ff0a2a5b1609bdf33b0dbe51.jpg",
+      "small": "course/en/assets/cf998bf8b73100d5ff0a2a5b1609bdf33b0dbe51.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Council Tax ",
+    "displayTitle": "Council Tax ",
+    "body": "<table border=\"1\"><tbody><tr><td><p><span style=\"color:#002B52\"><strong>At what rate&nbsp;is council tax being charged on this property?&nbsp;</strong></span>&nbsp;</p></td><td><p>200%&nbsp;</p></td></tr><tr><td><p><span style=\"color:#002B52\"><strong>Are there council tax arrears on this property?&nbsp;</strong></span>&nbsp;</p></td><td><p>£32,765.84&nbsp;– which were paid in full&nbsp;&nbsp;</p></td></tr></tbody></table>",
+    "_id": "5dfa5ca4bb8c952575d4b848",
+    "_parentId": "5dfa5ca4bb8c952575d4b845",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dfa5ca4bb8c952575d4b849",
+    "_parentId": "5dfa5ca4bb8c952575d4b845",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/68d0ef2f080f219e9e3cc04b361994a3d41c5488.jpg",
+      "small": "course/en/assets/68d0ef2f080f219e9e3cc04b361994a3d41c5488.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data cleansing and sharing",
+    "displayTitle": "Data cleansing and sharing",
+    "body": "<p>Data cleansing is ensuring that the information held is up to date and accurate.&nbsp;This is usually done by the owner updating information or by council tax account reviews.&nbsp;&nbsp;</p><p>If the Empty Homes Officer is engaged with the owners/liable parties,&nbsp;they can check information held is accurate and if&nbsp;necessary,&nbsp;update accordingly. This can help&nbsp;Council&nbsp;Tax maintain records, that they usually don’t have the resource to do themselves.&nbsp;&nbsp;</p><p>The Empty Homes Officers are also out on site and able to go and visually inspect properties (when safe to do so) and verify status. For example, the Empty Homes Officer may receive report of an empty property which is registered as a second home on Council Tax.&nbsp;</p>",
+    "_id": "5dfa6eedbb8c952575d4b863",
+    "_parentId": "5dfa6eedbb8c952575d4b860",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dfa6eedbb8c952575d4b864",
+    "_parentId": "5dfa6eedbb8c952575d4b860",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/582deb49f9080f0af15d27582f1ce5cf6ba2c390.png",
+      "small": "course/en/assets/582deb49f9080f0af15d27582f1ce5cf6ba2c390.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Signposting to Empty Homes Officer",
+    "displayTitle": "Signposting to Empty Homes Officer",
+    "body": "<p>One of key functions of&nbsp;the Empty Homes Officer&nbsp;is to&nbsp;provide owners/liable parties with advice on the options to bring their homes back into use. Council Tax colleagues could refer customers directly for assistance. This not only provides customers with a better service but can&nbsp;help&nbsp;to&nbsp;mitigate and&nbsp;reduce the number of&nbsp;enquiries&nbsp;and&nbsp;complaints received&nbsp;in relation to charging policy for long-term empty properties etc.&nbsp;&nbsp;&nbsp;</p><p>There may also be more likelihood of a commitment from the&nbsp;owners/liable parties to pay Council Tax due on empty property when they are engaged and discussing financial resources with&nbsp;Empty Homes Officer.&nbsp;&nbsp;</p><p>Our experience of&nbsp;this relationship in practice&nbsp;suggests that the&nbsp;best results occur when council tax proactively engage owners prior to the council tax levy taking place.&nbsp;One suggestion might be to include the&nbsp;empty homes officer’s details on the back of every letter that council tax send out to owners affected by the levy.&nbsp;</p><p>You should get to know the set up the team; are there separate Debt Recovery and Fraud Departments? If so, make sure you introduce yourself to each&nbsp;department, there are likely to be cases where the benefit of joint working with the wider team will provide better outcomes for all involved.&nbsp;&nbsp;</p>",
+    "_id": "5dfa7017bb8c952575d4b86d",
+    "_parentId": "5dfa7017bb8c952575d4b86a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dfa7017bb8c952575d4b86e",
+    "_parentId": "5dfa7017bb8c952575d4b86a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/178a134e9f91afaf35625fe4aac5a5fffe5091db.png",
+      "small": "course/en/assets/178a134e9f91afaf35625fe4aac5a5fffe5091db.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dfa70b0bb8c952575d4b87b",
+    "_parentId": "5dfa7088bb8c952575d4b874",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What are the obstacles when dealing with owners?",
+    "displayTitle": "What are the obstacles when dealing with owners?",
+    "body": "<ul style=\"list-style-type:square\"><li>Council tax levy&nbsp;(may need discretion or could be incorrectly calculated)</li><li>Incorrect category (holiday home/closing order etc)</li><li>Council tax debt may cause reluctance to engage/sell, if amount recouped once debt is repaid would not be significant.</li></ul>",
+    "_id": "5dfa70ecbb8c952575d4b880",
+    "_parentId": "5dfa70ecbb8c952575d4b87d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Review process",
+    "displayTitle": "Review process",
+    "body": "<p>Any of the above issues could cause an owner to ask for their&nbsp;case to be looked at in more detail.&nbsp;This normally starts with a review, followed by an appeal if the owner disagrees with the conclusion of the review.&nbsp;</p><p>An owner could ask for a review themselves, but a review could also come via a third party, such as SEHP or Citizens Advice Bureau. If an owner asks SEHP for help with their&nbsp;Council&nbsp;Tax case, we will always contact the empty homes officer for that area first and will encourage them to assist the owner, with our support.&nbsp;</p><p>If there is no empty homes officer in the area, we will support the owner directly. We always encourage owners to maintain a cordial and constructive dialogue with council tax and seek cases reviewed&nbsp;on the basis of&nbsp;legislation and Scottish Government guidance. If you are undertaking a review on behalf of an owner, please do contact SEHP for guidance.&nbsp;</p><p>If the result of the review process is not satisfactory to the owner, they may then appeal. Appeals are heard by the Valuation Appeal Committee, who look at the determination and calculation of&nbsp;Council&nbsp;Tax liability.&nbsp;</p>",
+    "_id": "5dfa71a8bb8c952575d4b888",
+    "_parentId": "5dfa71a8bb8c952575d4b885",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dfa71dbbb8c952575d4b889",
+    "_parentId": "5dfa71a8bb8c952575d4b885",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c9df1eddf9b9cf440dd3c7efed6ea68ef8b17b6c.png",
+      "small": "course/en/assets/c9df1eddf9b9cf440dd3c7efed6ea68ef8b17b6c.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Practical information",
+    "displayTitle": "Practical information",
+    "body": "<p><span style=\"color:#FFFFFF\">Select the image below for more information:</span></p>",
+    "_id": "5dfa728fbb8c952575d4b896",
+    "_parentId": "5dfa728fbb8c952575d4b892",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "frontImage": {
+          "alt": "Assessment",
+          "src": "course/en/assets/5b0fb5cc06627142ee61f647bbd7c8936ceeadb6.png"
+        },
+        "backTitle": "",
+        "backBody": "<p dir=\"ltr\"><span style=\"color:#002b52\"><span style=\"background-color:#ffb92d\">Assessment</span></span></p><p dir=\"ltr\"><span style=\"color:#FFFFFF\">Complete the multiple choice assessment questions.</span></p><p dir=\"ltr\"><span style=\"color:#FFFFFF\">Once you have done so, submit your preferred email address so&nbsp;the Learning Coordinator can issue your Certificate of completion.</span></p>"
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "no-padding",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Accordion",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dfa728fbb8c952575d4b899",
+    "_parentId": "5dfa728fbb8c952575d4b895",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Assessment",
+        "body": "<p>Complete the assessment questions below for the module 'Empty homes database and casework'.</p><p><span style=\"color:#002b52\"><strong>Note:</strong></style> You must complete this assessment in order to receive your certificate of completion.</p><p><iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=gCAAK3_gpE-WU1S_fGTCq2ZsI-XWxCNEpyIs9V-rxdZUNkFHWUxQVEdHVklVMUw3VDc3MkJSSkc1TS4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></p><p></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Share",
+        "body": "<p>Share that you have completed a module of the Scottish Empty Homes Partnership training with your followers and peers on <span style=\"color:#002b52\"><strong>Twitter</strong></span><span style=\"color:#002b52\"><strong>.</strong>&nbsp;</span></p><p style=\"text-align:center\">Simply select <span style=\"color:#002b52\"><strong>'Share on Twitter'</strong></span>&nbsp;to make a post.&nbsp;</p><p style=\"text-align:center\"><a href=\"https://twitter.com/intent/tweet?text=I%20have%20just%20completed%20a%20module%20on%20the%20Scottish%20Empty%20Homes%20Partnership%20Training.%20You%20can%20register%20for%20Empty%20Homes%20training%20for%20free%20here%3A%20%20emptyhomespartnership.scot\">Share on Twitter</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Council Tax Department  ",
+    "displayTitle": "Council Tax Department  ",
+    "body": "<p>It is crucial to understand that whilst there are overlapping interests, the overarching priorities of Council Tax Department&nbsp;may&nbsp;be slightly&nbsp;different&nbsp;from the aims and objectives that you as an Empty Homes Officer are trying to achieve.</p><p>Nonetheless the relationship between&nbsp;council&nbsp;tax and empty homes, together with the benefits of working together help forge agreed priorities and protocols.</p><p><strong><span style=\"color:#002b52\">Objectives for the Council Tax (Finance) Department&nbsp;</span>&nbsp;</strong></p><p>Likely to include a focus on areas such as:&nbsp;</p><ul style=\"list-style-type:square\"><li>Collecting council tax</li><li>Providing an effective and response customer service</li><li>Maintaining accurate records</li><li>Billing schedules</li><li>Maximising recovery rates to sustain funding streams.</li></ul>",
+    "_id": "5dfa8206bb8c952575d4b8a3",
+    "_parentId": "5dfa8206bb8c952575d4b8a0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Accurate information and updated accounts ",
+    "displayTitle": "Accurate information and updated accounts ",
+    "body": "<p>There is a reliance and legal obligation on owners/responsible parties to provide accurate information and to update accounts timeously when there is a change in circumstances.&nbsp;&nbsp;</p><p>Council Tax staff generally do not have the resources to monitor and investigate information provided unless this forms part of a standard review etc. In relation to empty properties this can be one of the key advantages of having a good joint working relationship between Empty Homes Officer and Council Tax Department.&nbsp;&nbsp;</p><p>You can be the resource that they are missing, to investigate empty homes cases.&nbsp;</p><p>&nbsp;</p>",
+    "_id": "5dfa831dbb8c952575d4b8ab",
+    "_parentId": "5dfa831dbb8c952575d4b8a8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dfa85e9bb8c952575d4b8ac",
+    "_parentId": "5dfa831dbb8c952575d4b8a8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/71b823b475bb262fd754b1ff6a3c6e124519cf1b.jpg",
+      "small": "course/en/assets/71b823b475bb262fd754b1ff6a3c6e124519cf1b.jpg",
+      "attribution": ""
+    }
+  }
+]
